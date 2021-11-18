@@ -424,14 +424,14 @@
               "id": 7,
               "img": "/img/author_7.jpg",
               "avatar": "/img/avatar_7.jpg",
-              "author": "CatsPunch",
+              "author": "Cats",
               "btnText": "Follow"
             },
             {
               "id": 8,
               "img": "/img/author_8.jpg",
               "avatar": "/img/avatar_8.jpg",
-              "author": "CatsPunch",
+              "author": "Punch",
               "btnText": "Follow"
             }
         ]
