@@ -405,34 +405,6 @@
                 "avatar": "/img/avatar_4.jpg",
                 "author": "MRE",
                 "btnText": "Follow"
-            },
-            {
-              "id": 5,
-              "img": "/img/author_5.jpg",
-              "avatar": "/img/avatar_5.jpg",
-              "author": "SPK",
-              "btnText": "Follow"
-            },
-            {
-              "id": 6,
-              "img": "/img/author_6.jpg",
-              "avatar": "/img/avatar_6.jpg",
-              "author": "S1lver",
-              "btnText": "Follow"
-            },
-            {
-              "id": 7,
-              "img": "/img/author_7.jpg",
-              "avatar": "/img/avatar_7.jpg",
-              "author": "Cats",
-              "btnText": "Follow"
-            },
-            {
-              "id": 8,
-              "img": "/img/author_8.jpg",
-              "avatar": "/img/avatar_8.jpg",
-              "author": "Punch",
-              "btnText": "Follow"
             }
         ]
     },
