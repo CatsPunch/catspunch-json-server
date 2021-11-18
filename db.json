@@ -12,31 +12,31 @@
             {
               "id": 2,
               "img": "/img/avatar_2.jpg",
-              "seller": "@CatsPunch",
+              "seller": "@Xerxes",
               "price": "2.3 BNB"
             },
             {
               "id": 3,
               "img": "/img/avatar_3.jpg",
-              "seller": "@CatsPunch",
+              "seller": "@Cathena",
               "price": "2.5 BNB"
             },
             {
                 "id": 4,
                 "img": "/img/avatar_4.jpg",
-                "seller": "@CatsPunch",
+                "seller": "@MRE",
                 "price": "1.9 BNB"
             },
             {
               "id": 5,
               "img": "/img/avatar_5.jpg",
-              "seller": "@CatsPunch",
+              "seller": "@SPK",
               "price": "3.2 BNB"
             },
             {
               "id": 6,
               "img": "/img/avatar_6.jpg",
-              "seller": "@CatsPunch",
+              "seller": "@S1lver",
               "price": "4.7 BNB"
             }
         ]
@@ -389,7 +389,7 @@
               "id": 2,
               "img": "/img/author_2.jpg",
               "avatar": "/img/avatar_2.jpg",
-              "author": "CatsPunchNFT",
+              "author": "Xerxes",
               "btnText": "Follow"
             },
             {
