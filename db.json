@@ -43,8 +43,8 @@
     },
     "collections": {
         "preHeading": "Most Popular",
-        "heading": "Popular Collections",
-        "btnText": "Explore More",
+        "heading": "Character Collection",
+        "btnText": "Show Me Cats!",
         "collectionData": [
             {
                 "id": 1,
