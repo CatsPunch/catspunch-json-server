@@ -7,37 +7,37 @@
               "id": 1,
               "img": "/img/avatar_1.jpg",
               "seller": "@CatsPunch",
-              "price": "1.5 BNB"
+              "price": "1.5 ETH"
             },
             {
               "id": 2,
               "img": "/img/avatar_2.jpg",
               "seller": "@Xerxes",
-              "price": "2.3 BNB"
+              "price": "2.3 ETH"
             },
             {
               "id": 3,
               "img": "/img/avatar_3.jpg",
               "seller": "@Cathena",
-              "price": "2.5 BNB"
+              "price": "2.5 ETH"
             },
             {
                 "id": 4,
                 "img": "/img/avatar_4.jpg",
                 "seller": "@MRE",
-                "price": "1.9 BNB"
+                "price": "1.9 ETH"
             },
             {
               "id": 5,
               "img": "/img/avatar_5.jpg",
               "seller": "@SPK",
-              "price": "3.2 BNB"
+              "price": "3.2 ETH"
             },
             {
               "id": 6,
               "img": "/img/avatar_6.jpg",
               "seller": "@S1lver",
-              "price": "4.7 BNB"
+              "price": "4.7 ETH"
             }
         ]
     },
