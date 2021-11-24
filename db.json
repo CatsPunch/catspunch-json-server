@@ -441,7 +441,7 @@
     "wallet": {
         "preHeading": "Wallet Connect",
         "heading": "Connect your Wallet",
-        "content": "Poor CATS are waiting to be freed!",
+        "content": "Cats are waiting to be freed!",
         "walletData": [
             {
                 "id": 1,
