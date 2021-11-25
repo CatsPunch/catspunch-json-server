@@ -302,6 +302,22 @@
                 "price": "69 ETH",
                 "time": "12 hours ago",
                 "seller": "@CatsPunch"
+            },
+                        {
+                "id": 5,
+                "img": "/img/auction_8.jpg",
+                "title": "Monkey D Luffy Cat",
+                "price": "22 ETH",
+                "time": "9 hours ago",
+                "seller": "@CatsPunch"
+            },
+            {
+                "id": 6,
+                "img": "/img/auction_9.jpg",
+                "title": "Kappa Cat",
+                "price": "69 ETH",
+                "time": "12 hours ago",
+                "seller": "@CatsPunch"
             }
         ],
         "tabData_3": [
@@ -331,6 +347,22 @@
             },
             {
                 "id": 4,
+                "img": "/img/auction_4.jpg",
+                "title": "Guy Fawkes Cat",
+                "price": "69 ETH",
+                "time": "12 hours ago",
+                "seller": "@CatsPunch"
+            }
+                        {
+                "id": 5,
+                "img": "/img/auction_3.jpg",
+                "title": "Doobie Cat",
+                "price": "22 ETH",
+                "time": "9 hours ago",
+                "seller": "@CatsPunch"
+            },
+            {
+                "id": 6,
                 "img": "/img/auction_4.jpg",
                 "title": "Guy Fawkes Cat",
                 "price": "69 ETH",
