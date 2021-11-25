@@ -12,7 +12,7 @@
             {
               "id": 2,
               "img": "/img/avatar_2.jpg",
-              "seller": "@Xerxes",
+              "seller": "@C2",
               "price": "2.3 ETH"
             },
             {
@@ -85,7 +85,7 @@
                 "id": 6,
                 "img": "/img/author_6.jpg",
                 "avatar": "/img/avatar_6.jpg",
-                "title": "SuperCats Evolution",
+                "title": "Evolution",
                 "content": "ERC-403"
             },
             {
@@ -99,7 +99,7 @@
                 "id": 8,
                 "img": "/img/author_8.jpg",
                 "avatar": "/img/avatar_8.jpg",
-                "title": "Catcyclepedia",
+                "title": "Magic",
                 "content": "ERC-972"
             }
         ]
