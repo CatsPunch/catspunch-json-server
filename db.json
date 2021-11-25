@@ -142,7 +142,7 @@
             {
                 "id": 1,
                 "img": "/img/auction_1.jpg",
-                "title": "Walking On Air",
+                "title": "Golden Touch Cat",
                 "owner": "CatsPunch",
                 "price": "1.5 ETH",
                 "count": "1 of 1",
@@ -151,7 +151,7 @@
             {
                 "id": 2,
                 "img": "/img/auction_2.jpg",
-                "title": "Domain Names",
+                "title": "Cat Loves Fish",
                 "owner": "CatsPunch",
                 "price": "2.7 ETH",
                 "count": "1 of 1",
@@ -160,7 +160,7 @@
             {
                 "id": 3,
                 "img": "/img/auction_3.jpg",
-                "title": "Trading Cards",
+                "title": "Pikachu Cat",
                 "owner": "CatsPunch",
                 "price": "2.3 ETH",
                 "count": "1 of 1",
@@ -224,7 +224,7 @@
             {
                 "id": 1,
                 "img": "/img/auction_5.jpg",
-                "title": "Walking On Air",
+                "title": "Golden Touch Cat",
                 "price": "14 ETH",
                 "time": "4 hours ago",
                 "seller": "@CatsPunch"
@@ -232,7 +232,7 @@
             {
                 "id": 2,
                 "img": "/img/auction_6.jpg",
-                "title": "Virtual Worlds",
+                "title": "Cat Loves Fish",
                 "price": "10 ETH",
                 "time": "8 hours ago",
                 "seller": "@CatsPunch"
@@ -240,7 +240,7 @@
             {
                 "id": 3,
                 "img": "/img/auction_7.jpg",
-                "title": "Collectibles",
+                "title": "Pikachu Cat",
                 "price": "12 ETH",
                 "time": "3 hours ago",
                 "seller": "@CatsPunch"
@@ -248,7 +248,7 @@
             {
                 "id": 4,
                 "img": "/img/auction_8.jpg",
-                "title": "Digital Arts",
+                "title": "Monkey D Luffy Cat",
                 "price": "22 ETH",
                 "time": "9 hours ago",
                 "seller": "@CatsPunch"
@@ -256,7 +256,7 @@
             {
                 "id": 5,
                 "img": "/img/auction_9.jpg",
-                "title": "Design Illusions",
+                "title": "Kappa Cat",
                 "price": "42 ETH",
                 "time": "7 hours ago",
                 "seller": "@CatsPunch"
@@ -264,7 +264,7 @@
             {
                 "id": 6,
                 "img": "/img/auction_10.jpg",
-                "title": "Industrial",
+                "title": "Iron Man Cat",
                 "price": "36 ETH",
                 "time": "10 hours ago",
                 "seller": "@CatsPunch"
@@ -274,7 +274,7 @@
             {
                 "id": 1,
                 "img": "/img/auction_6.jpg",
-                "title": "Virtual Worlds",
+                "title": "Cat Loves Fish",
                 "price": "10 ETH",
                 "time": "8 hours ago",
                 "seller": "@CatsPunch"
@@ -282,7 +282,7 @@
             {
                 "id": 2,
                 "img": "/img/auction_7.jpg",
-                "title": "Collectibles",
+                "title": "Pikachu Cat",
                 "price": "12 ETH",
                 "time": "3 hours ago",
                 "seller": "@CatsPunch"
@@ -290,7 +290,7 @@
             {
                 "id": 3,
                 "img": "/img/auction_8.jpg",
-                "title": "Digital Arts",
+                "title": "Monkey D Luffy Cat",
                 "price": "22 ETH",
                 "time": "9 hours ago",
                 "seller": "@CatsPunch"
@@ -298,7 +298,7 @@
             {
                 "id": 4,
                 "img": "/img/auction_9.jpg",
-                "title": "Photography",
+                "title": "Kappa Cat",
                 "price": "69 ETH",
                 "time": "12 hours ago",
                 "seller": "@CatsPunch"
@@ -308,7 +308,7 @@
             {
                 "id": 1,
                 "img": "/img/auction_1.jpg",
-                "title": "Design Illusions",
+                "title": "Athena Cat",
                 "price": "10 ETH",
                 "time": "8 hours ago",
                 "seller": "@CatsPunch"
@@ -316,7 +316,7 @@
             {
                 "id": 2,
                 "img": "/img/auction_2.jpg",
-                "title": "Digital Arts",
+                "title": "Black Mamba Cat",
                 "price": "12 ETH",
                 "time": "3 hours ago",
                 "seller": "@CatsPunch"
@@ -324,7 +324,7 @@
             {
                 "id": 3,
                 "img": "/img/auction_3.jpg",
-                "title": "Photography",
+                "title": "Doobie Cat",
                 "price": "22 ETH",
                 "time": "9 hours ago",
                 "seller": "@CatsPunch"
@@ -332,7 +332,7 @@
             {
                 "id": 4,
                 "img": "/img/auction_4.jpg",
-                "title": "Virtual Worlds",
+                "title": "Guy Fawkes Cat",
                 "price": "69 ETH",
                 "time": "12 hours ago",
                 "seller": "@CatsPunch"
