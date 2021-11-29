@@ -51,56 +51,56 @@
                 "img": "/img/author_1.jpg",
                 "avatar": "/img/avatar_1.jpg",
                 "title": "Artwork",
-                "content": "ERC-729"
+                "content": "Famous Cats"
             },
             {
                 "id": 2,
                 "img": "/img/author_2.jpg",
                 "avatar": "/img/avatar_2.jpg",
                 "title": "Characters",
-                "content": "ERC-522"
+                "content": "Playable NFTs"
             },
             {
                 "id": 3,
                 "img": "/img/author_3.jpg",
                 "avatar": "/img/avatar_3.jpg",
                 "title": "Weapons",
-                "content": "ERC-495"
+                "content": "Increase Attack"
             },
             {
                 "id": 4,
                 "img": "/img/author_4.jpg",
                 "avatar": "/img/avatar_4.jpg",
                 "title": "Armor",
-                "content": "ERC-873"
+                "content": "Increase Defense"
             },
             {
                 "id": 5,
                 "img": "/img/author_5.jpg",
                 "avatar": "/img/avatar_5.jpg",
                 "title": "Items",
-                "content": "ERC-397"
+                "content": "Unique Items"
             },
             {
                 "id": 6,
                 "img": "/img/author_6.jpg",
                 "avatar": "/img/avatar_6.jpg",
                 "title": "SuperCats Evolution",
-                "content": "ERC-403"
+                "content": "Power Multipliers"
             },
             {
                 "id": 7,
                 "img": "/img/author_7.jpg",
                 "avatar": "/img/avatar_7.jpg",
                 "title": "Strengths & Weaknesses",
-                "content": "ERC-687"
+                "content": "Attack & Defense Match-Ups"
             },
             {
                 "id": 8,
                 "img": "/img/author_8.jpg",
                 "avatar": "/img/avatar_8.jpg",
                 "title": "Catcyclepedia",
-                "content": "ERC-972"
+                "content": "All Things CatsPunch"
             }
         ]
     },
