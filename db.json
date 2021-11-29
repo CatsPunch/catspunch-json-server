@@ -85,22 +85,22 @@
                 "id": 6,
                 "img": "/img/author_6.jpg",
                 "avatar": "/img/avatar_6.jpg",
-                "title": "SuperCats Evolution",
-                "content": "Power Multipliers"
+                "title": "SuperCats Evolutions",
+                "content": "Stat Multipliers"
             },
             {
                 "id": 7,
                 "img": "/img/author_7.jpg",
                 "avatar": "/img/avatar_7.jpg",
                 "title": "Strengths & Weaknesses",
-                "content": "Elements VS"
+                "content": "VS Elements"
             },
             {
                 "id": 8,
                 "img": "/img/author_8.jpg",
                 "avatar": "/img/avatar_8.jpg",
-                "title": "Catcyclepedia",
-                "content": "All Things CatsPunch"
+                "title": "$CATSPUNCH",
+                "content": "Digital Currency"
             }
         ]
     },
