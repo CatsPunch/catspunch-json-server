@@ -65,14 +65,14 @@
                 "img": "/img/author_3.jpg",
                 "avatar": "/img/avatar_3.jpg",
                 "title": "Weapons",
-                "content": "Increase Attack"
+                "content": "Increase Attack (ATK)"
             },
             {
                 "id": 4,
                 "img": "/img/author_4.jpg",
                 "avatar": "/img/avatar_4.jpg",
                 "title": "Armor",
-                "content": "Increase Defense"
+                "content": "Increase Defense (DEF)"
             },
             {
                 "id": 5,
@@ -93,7 +93,7 @@
                 "img": "/img/author_7.jpg",
                 "avatar": "/img/avatar_7.jpg",
                 "title": "Strengths & Weaknesses",
-                "content": "Attack & Defense Match-Ups"
+                "content": "Elements VS"
             },
             {
                 "id": 8,
