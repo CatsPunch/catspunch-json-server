@@ -62,14 +62,14 @@
             },
             {
                 "id": 3,
-                "img": "/img/author_3.jpg",
+                "img": "/img/cpcc_weapons_1.png",
                 "avatar": "/img/avatar_3.jpg",
                 "title": "Weapons",
                 "content": "Increase Attack (ATK)"
             },
             {
                 "id": 4,
-                "img": "/img/author_4.jpg",
+                "img": "/img/cpcc_armor_1.png",
                 "avatar": "/img/avatar_4.jpg",
                 "title": "Armor",
                 "content": "Increase Defense (DEF)"
