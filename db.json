@@ -58,7 +58,7 @@
                     "content": "Filter by Category",
                     "data": [
                         {
-                            "id": "1",
+                            "id": 1,
                             "img": "/img/auction_1.jpg",
                             "group": ["art","sports"],
                             "title": "Cats Walking On Air",
@@ -67,7 +67,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "2",
+                            "id": 2,
                             "img": "/img/auction_2.jpg",
                             "group": ["collectibles","sports"],
                             "title": "Domain Names",
@@ -76,7 +76,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "3",
+                            "id": 3,
                             "img": "/img/auction_3.jpg",
                             "group": ["art","character"],
                             "title": "Trading Cards",
@@ -85,7 +85,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "4",
+                            "id": 4,
                             "img": "/img/auction_4.jpg",
                             "group": ["sports","art","character"],
                             "title": "Industrial Revolution",
@@ -94,7 +94,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "5",
+                            "id": 5,
                             "img": "/img/auction_5.jpg",
                             "group": ["character","sports","collectibles"],
                             "title": "Utility",
@@ -103,7 +103,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "6",
+                            "id": 6,
                             "img": "/img/auction_6.jpg",
                             "group": ["collectibles","sports"],
                             "title": "Sports",
@@ -112,7 +112,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "7",
+                            "id": 7,
                             "img": "/img/auction_7.jpg",
                             "group": ["art","sports"],
                             "title": "Cartoon Heroes",
@@ -121,7 +121,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "8",
+                            "id": 8,
                             "img": "/img/auction_8.jpg",
                             "group": ["character","sports","art","collectibles"],
                             "title": "Gaming Chair",
@@ -130,7 +130,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "9",
+                            "id": 9,
                             "img": "/img/auction_9.jpg",
                             "group": ["character","sports","collectibles"],
                             "title": "Photography",
@@ -139,7 +139,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "10",
+                            "id": 10,
                             "img": "/img/auction_10.jpg",
                             "group": ["art","character"],
                             "title": "Zed Run",
@@ -148,7 +148,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "11",
+                            "id": 11,
                             "img": "/img/auction_11.jpg",
                             "group": ["sports","art","character"],
                             "title": "Rare Tyres",
@@ -157,7 +157,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "12",
+                            "id": 12,
                             "img": "/img/auction_12.jpg",
                             "group": ["character","sports","collectibles"],
                             "title": "World of Women",
@@ -166,7 +166,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "13",
+                            "id": 13,
                             "img": "/img/auction_13.jpg",
                             "group": ["character","sports","collectibles"],
                             "title": "World of Women",
@@ -175,7 +175,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "14",
+                            "id": 14,
                             "img": "/img/auction_14.jpg",
                             "group": ["character","sports","collectibles"],
                             "title": "World of Women",
@@ -184,7 +184,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "15",
+                            "id": 15,
                             "img": "/img/auction_15.jpg",
                             "group": ["character","sports","collectibles"],
                             "title": "World of Women",
@@ -193,7 +193,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "16",
+                            "id": 16,
                             "img": "/img/auction_16.jpg",
                             "group": ["character","sports","collectibles"],
                             "title": "World of Women",
@@ -202,7 +202,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "17",
+                            "id": 17,
                             "img": "/img/auction_17.jpg",
                             "group": ["character","sports","collectibles"],
                             "title": "World of Women",
@@ -211,7 +211,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "18",
+                            "id": 18,
                             "img": "/img/auction_18.jpg",
                             "group": ["character","sports","collectibles"],
                             "title": "World of Women",
@@ -220,7 +220,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "19",
+                            "id": 19,
                             "img": "/img/auction_19.jpg",
                             "group": ["character","sports","collectibles"],
                             "title": "World of Women",
@@ -229,7 +229,7 @@
                             "count": "1 of 1"
                         },
                         {
-                            "id": "20",
+                            "id": 20,
                             "img": "/img/auction_20.jpg",
                             "group": ["character","sports","collectibles"],
                             "title": "World of Women",
@@ -252,7 +252,7 @@
                     "content": "Filter by Category",
                     "data": [
                         {
-                            "id": "1",
+                            "id": 1,
                             "img": "/img/auction_1.jpg",
                             "group": ["art","magic","armor","skills","items","evolution"],
                             "title": "Athena Cat",
@@ -262,7 +262,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "2",
+                            "id": 2,
                             "img": "/img/auction_2.jpg",
                             "group": ["elements","magic"],
                             "title": "Black Mamba Cat",
@@ -272,7 +272,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "3",
+                            "id": 3,
                             "img": "/img/auction_3.jpg",
                             "group": ["art","character"],
                             "title": "Doobie Cat",
@@ -282,7 +282,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "4",
+                            "id": 4,
                             "img": "/img/auction_4.jpg",
                             "group": ["magic","art","character"],
                             "title": "Guy Fawkes Cat",
@@ -292,7 +292,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "5",
+                            "id": 5,
                             "img": "/img/auction_5.jpg",
                             "group": ["character","magic","elements"],
                             "title": "Golden Touch Cat",
@@ -302,7 +302,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "6",
+                            "id": 6,
                             "img": "/img/auction_6.jpg",
                             "group": ["elements","magic"],
                             "title": "Cat Loves Fish",
@@ -312,7 +312,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "7",
+                            "id": 7,
                             "img": "/img/auction_7.jpg",
                             "group": ["art","magic"],
                             "title": "Pikachu Cat",
@@ -322,7 +322,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "8",
+                            "id": 8,
                             "img": "/img/auction_8.jpg",
                             "group": ["character","magic","art","elements"],
                             "title": "Monkey D Luffy Cat",
@@ -332,7 +332,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "9",
+                            "id": 9,
                             "img": "/img/auction_9.jpg",
                             "group": ["character","magic","elements"],
                             "title": "Kappa Cat",
@@ -342,7 +342,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "10",
+                            "id": 10,
                             "img": "/img/auction_10.jpg",
                             "group": ["art","character"],
                             "title": "Iron Man Cat",
@@ -352,7 +352,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "11",
+                            "id": 11,
                             "img": "/img/auction_11.jpg",
                             "group": ["magic","art","character"],
                             "title": "Deadpool Cat",
@@ -362,7 +362,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "12",
+                            "id": 12,
                             "img": "/img/auction_12.jpg",
                             "group": ["character","magic","elements"],
                             "title": "WEEB Cat",
@@ -372,7 +372,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "13",
+                            "id": 13,
                             "img": "/img/auction_13.jpg",
                             "group": ["character","magic","elements"],
                             "title": "LA Cat",
@@ -382,7 +382,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "14",
+                            "id": 14,
                             "img": "/img/auction_14.jpg",
                             "group": ["character","magic","elements"],
                             "title": "Nezuko Cat (Casual)",
@@ -392,7 +392,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "15",
+                            "id": 15,
                             "img": "/img/auction_15.jpg",
                             "group": ["character","magic","elements"],
                             "title": "Deadpool Cat 88x88",
@@ -402,7 +402,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "16",
+                            "id": 16,
                             "img": "/img/auction_16.jpg",
                             "group": ["character","magic","elements"],
                             "title": "LA Cat 88x88",
@@ -412,7 +412,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "17",
+                            "id": 17,
                             "img": "/img/auction_17.jpg",
                             "group": ["character","magic","elements"],
                             "title": "World of Women",
@@ -422,7 +422,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "18",
+                            "id": 18,
                             "img": "/img/auction_18.jpg",
                             "group": ["character","magic","elements"],
                             "title": "World of Women",
@@ -432,7 +432,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "19",
+                            "id": 19,
                             "img": "/img/auction_19.jpg",
                             "group": ["character","magic","elements"],
                             "title": "World of Women",
@@ -442,7 +442,7 @@
                             "btnText": "Place a Bid"
                         },
                         {
-                            "id": "20",
+                            "id": 20,
                             "img": "/img/auction_20.jpg",
                             "group": ["character","magic","elements"],
                             "title": "World of Women",
