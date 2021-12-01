@@ -51,7 +51,194 @@
                 "img": "/img/author_1.jpg",
                 "avatar": "/img/avatar_1.jpg",
                 "title": "Artwork",
-                "content": "Famous Cats"
+                "content": "Famous Cats",
+                "data": {
+                    "pre_heading": "Popular CatsPunch Artwork",
+                    "heading": "Exclusive Digital Artwork",
+                    "content": "Filter by Category",
+                    "data": [
+                        {
+                            "id": "1",
+                            "img": "/img/auction_1.jpg",
+                            "group": ["art","sports"],
+                            "title": "Cats Walking On Air",
+                            "owner": "@CatsPunch",
+                            "price": "1.5 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "2",
+                            "img": "/img/auction_2.jpg",
+                            "group": ["collectibles","sports"],
+                            "title": "Domain Names",
+                            "owner": "@CatsPunch",
+                            "price": "2.7 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "3",
+                            "img": "/img/auction_3.jpg",
+                            "group": ["art","character"],
+                            "title": "Trading Cards",
+                            "owner": "@CatsPunch",
+                            "price": "2.3 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "4",
+                            "img": "/img/auction_4.jpg",
+                            "group": ["sports","art","character"],
+                            "title": "Industrial Revolution",
+                            "owner": "CatsPunch",
+                            "price": "1.8 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "5",
+                            "img": "/img/auction_5.jpg",
+                            "group": ["character","sports","collectibles"],
+                            "title": "Utility",
+                            "owner": "CatsPunch",
+                            "price": "1.7 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "6",
+                            "img": "/img/auction_6.jpg",
+                            "group": ["collectibles","sports"],
+                            "title": "Sports",
+                            "owner": "CatsPunch",
+                            "price": "1.9 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "7",
+                            "img": "/img/auction_7.jpg",
+                            "group": ["art","sports"],
+                            "title": "Cartoon Heroes",
+                            "owner": "CatsPunch",
+                            "price": "3.2 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "8",
+                            "img": "/img/auction_8.jpg",
+                            "group": ["character","sports","art","collectibles"],
+                            "title": "Gaming Chair",
+                            "owner": "CatsPunch",
+                            "price": "0.69 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "9",
+                            "img": "/img/auction_9.jpg",
+                            "group": ["character","sports","collectibles"],
+                            "title": "Photography",
+                            "owner": "CatsPunch",
+                            "price": "2.3 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "10",
+                            "img": "/img/auction_10.jpg",
+                            "group": ["art","character"],
+                            "title": "Zed Run",
+                            "owner": "CatsPunch",
+                            "price": "3.7 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "11",
+                            "img": "/img/auction_11.jpg",
+                            "group": ["sports","art","character"],
+                            "title": "Rare Tyres",
+                            "owner": "CatsPunch",
+                            "price": "2.2 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "12",
+                            "img": "/img/auction_12.jpg",
+                            "group": ["character","sports","collectibles"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "13",
+                            "img": "/img/auction_13.jpg",
+                            "group": ["character","sports","collectibles"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "14",
+                            "img": "/img/auction_14.jpg",
+                            "group": ["character","sports","collectibles"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "15",
+                            "img": "/img/auction_15.jpg",
+                            "group": ["character","sports","collectibles"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "16",
+                            "img": "/img/auction_16.jpg",
+                            "group": ["character","sports","collectibles"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "17",
+                            "img": "/img/auction_17.jpg",
+                            "group": ["character","sports","collectibles"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "18",
+                            "img": "/img/auction_18.jpg",
+                            "group": ["character","sports","collectibles"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "19",
+                            "img": "/img/auction_19.jpg",
+                            "group": ["character","sports","collectibles"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1"
+                        },
+                        {
+                            "id": "20",
+                            "img": "/img/auction_20.jpg",
+                            "group": ["character","sports","collectibles"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
