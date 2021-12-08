@@ -1529,7 +1529,214 @@
                 "img": "/img/author_8.jpg",
                 "avatar": "/img/avatar_8.jpg",
                 "title": "$CATSPUNCH",
-                "content": "Digital Currency"
+                "content": "Digital Currency",
+                "data": {
+                    "pre_heading": "CatsPunch",
+                    "heading": "Exclusive CatsPunch",
+                    "content": "Filter by Category",
+                    "data": [
+                        {
+                            "id": 1,
+                            "img": "/img/auction_1.jpg",
+                            "group": ["art","magic","armor","skills","items","evolution"],
+                            "title": "Athena Cat",
+                            "owner": "@CatsPunch",
+                            "price": "1.5 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 2,
+                            "img": "/img/auction_2.jpg",
+                            "group": ["elements","magic"],
+                            "title": "Black Mamba Cat",
+                            "owner": "@CatsPunch",
+                            "price": "2.7 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 3,
+                            "img": "/img/auction_3.jpg",
+                            "group": ["art","character"],
+                            "title": "Doobie Cat",
+                            "owner": "@CatsPunch",
+                            "price": "2.3 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 4,
+                            "img": "/img/auction_4.jpg",
+                            "group": ["magic","art","character"],
+                            "title": "Guy Fawkes Cat",
+                            "owner": "CatsPunch",
+                            "price": "1.8 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 5,
+                            "img": "/img/auction_5.jpg",
+                            "group": ["character","magic","elements"],
+                            "title": "Golden Touch Cat",
+                            "owner": "CatsPunch",
+                            "price": "1.7 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 6,
+                            "img": "/img/auction_6.jpg",
+                            "group": ["elements","magic"],
+                            "title": "Cat Loves Fish",
+                            "owner": "CatsPunch",
+                            "price": "1.9 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 7,
+                            "img": "/img/auction_7.jpg",
+                            "group": ["art","magic"],
+                            "title": "Pikachu Cat",
+                            "owner": "CatsPunch",
+                            "price": "3.2 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 8,
+                            "img": "/img/auction_8.jpg",
+                            "group": ["character","magic","art","elements"],
+                            "title": "Monkey D Luffy Cat",
+                            "owner": "CatsPunch",
+                            "price": "0.69 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 9,
+                            "img": "/img/auction_9.jpg",
+                            "group": ["character","magic","elements"],
+                            "title": "Kappa Cat",
+                            "owner": "CatsPunch",
+                            "price": "2.3 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 10,
+                            "img": "/img/auction_10.jpg",
+                            "group": ["art","character"],
+                            "title": "Iron Man Cat",
+                            "owner": "CatsPunch",
+                            "price": "3.7 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 11,
+                            "img": "/img/auction_11.jpg",
+                            "group": ["magic","art","character"],
+                            "title": "Deadpool Cat",
+                            "owner": "CatsPunch",
+                            "price": "2.2 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 12,
+                            "img": "/img/auction_12.jpg",
+                            "group": ["character","magic","elements"],
+                            "title": "WEEB Cat",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 13,
+                            "img": "/img/auction_13.jpg",
+                            "group": ["character","magic","elements"],
+                            "title": "LA Cat",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 14,
+                            "img": "/img/auction_14.jpg",
+                            "group": ["character","magic","elements"],
+                            "title": "Nezuko Cat (Casual)",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 15,
+                            "img": "/img/auction_15.jpg",
+                            "group": ["character","magic","elements"],
+                            "title": "Deadpool Cat 88x88",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 16,
+                            "img": "/img/auction_16.jpg",
+                            "group": ["character","magic","elements"],
+                            "title": "LA Cat 88x88",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 17,
+                            "img": "/img/auction_17.jpg",
+                            "group": ["character","magic","elements"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 18,
+                            "img": "/img/auction_18.jpg",
+                            "group": ["character","magic","elements"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 19,
+                            "img": "/img/auction_19.jpg",
+                            "group": ["character","magic","elements"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        },
+                        {
+                            "id": 20,
+                            "img": "/img/auction_20.jpg",
+                            "group": ["character","magic","elements"],
+                            "title": "World of Women",
+                            "owner": "CatsPunch",
+                            "price": "4.3 ETH",
+                            "count": "1 of 1",
+                            "btnText": "Place a Bid"
+                        }
+                    ]
+                }
             }
         ]
     },
